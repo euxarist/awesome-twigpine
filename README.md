@@ -37,7 +37,6 @@ Twigpine is agent-native by design. These coding agents live in the ecosystem.
 
 - [OpenClaude](https://github.com/Twigpine/openclaude) - Open-source coding-agent CLI, the agent that runs in the Twigpine backend. Terminal-first workflow (prompts, tools, agents, MCP, slash commands, streaming) across OpenAI-compatible APIs, Gemini, GitHub Models, Codex OAuth, Ollama, and more.
 - [zero](https://github.com/Twigpine/zero) - A terminal coding agent you own. Inspects repos, edits files, runs commands, uses browser and terminal helpers, and keeps durable local sessions. 25+ providers with per-action permission levels. Go.
-- [zeroclaw](https://github.com/euxaristia/zeroclaw) - An autonomous personal agent that lives in its own isolated Linux container. `zero` is the brain; zeroclaw is the body: a host-side daemon giving it a persistent home, an always-on loop, conversations, schedules, and durable memory. Go.
 
 ## Agent Integration
 
